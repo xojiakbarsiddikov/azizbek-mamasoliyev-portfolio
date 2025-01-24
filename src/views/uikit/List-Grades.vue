@@ -9,32 +9,26 @@
                 <h5>Grades (G.P.A):<span class="blue-color text-left">(11TH-12TH Grades)</span></h5>
                     <div class="col-12 p-0" style="padding-top: 0 !important">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image grades-warpper">
-                            <Image src="/public/demo/images/certificates/grades/12th.png" class="with-image" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/grades/11th.png" class="with-image" preview data-aos="fade-up"/>
-                            <!-- <Image src="/public/demo/images/certificates/ielts/break-down.jpg" class="with-image second-image" preview data-aos="fade-up"/> -->
+                            <Image src="/demo/images/certificates/grades/12th.png" class="with-image" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/grades/11th.png" class="with-image" preview data-aos="fade-up"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-around text-warpper grades-text-wrapper">
                         <h5 class="text">12TH<span class="blue-color" style="margin-left: 3px;">GRADE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">1st</span> ATTEMPT (TOTAL SCORE:<span class="blue-color text-right">7.5</span>)</h5> -->
                         <h5 class="text">11TH<span class="blue-color" style="margin-left: 3px;">GRADE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">SCORE-DOWN</span>(<span class="blue-color text-right">Section-by-Section</span>)</h5> -->
                     </div>
             </div>
             <div class="card" style="padding-bottom: 0.5rem !important;">
                 <h5>Grades (G.P.A):<span class="blue-color text-left">(9TH-10TH Grades)</span></h5>
                     <div class="col-12 p-0" style="padding-top: 0 !important">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image grades-warpper">
-                            <Image src="/public/demo/images/certificates/grades/10th.png" class="with-image" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/grades/9th.png" class="with-image" preview data-aos="fade-up"/>
-                            <!-- <Image src="/public/demo/images/certificates/ielts/break-down.jpg" class="with-image second-image" preview data-aos="fade-up"/> -->
+                            <Image src="/demo/images/certificates/grades/10th.png" class="with-image" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/grades/9th.png" class="with-image" preview data-aos="fade-up"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-around text-warpper grades-text-wrapper">
                         <h5 class="text">10TH<span class="blue-color" style="margin-left: 3px;">GRADE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">1st</span> ATTEMPT (TOTAL SCORE:<span class="blue-color text-right">7.5</span>)</h5> -->
                         <h5 class="text">9TH<span class="blue-color" style="margin-left: 3px;">GRADE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">SCORE-DOWN</span>(<span class="blue-color text-right">Section-by-Section</span>)</h5> -->
                     </div>
             </div>
         </div>
