@@ -9,7 +9,7 @@
                 <h5>CEFR<span class="blue-color text-left text-right">(Multilevel)</span>CERTIFICATES: <span class="blue-color">B1</span></h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-evenly align-items-center w-full img-wrapper">
-                            <Image src="/public/demo/images/certificates/cefr/3-attempt.jpg" class="with-image2" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/cefr/3-attempt.jpg" class="with-image2" preview data-aos="fade-down"/>
                             <div class="with-image2 cefr-text-wrapper">
                                 <h2 class="text">Listening: <span class="blue-color text-right">47</span></h2>
                                 <h2 class="text">Reading: <span class="blue-color text-right">44</span></h2>
