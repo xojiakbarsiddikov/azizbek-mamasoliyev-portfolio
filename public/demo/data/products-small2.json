@@ -1,0 +1,27 @@
+{
+	"data": [
+		{
+			"name": "1st Place🥇",
+			"image": "8.jpg",
+			"fade": "fade-right",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "10.jpg",
+			"fade": "fade-down",
+			"img_size": "img_size"
+		},
+		{
+			"name": "Sport Passport 1st Page",
+			"image": "11.jpg",
+			"fade": "fade-left",
+			"img_size": "img_size"
+		},
+		{
+			"name": "Sport Passport 2nd Page",
+			"image": "12.jpg",
+			"img_size": "img_size"
+		}
+	]
+}

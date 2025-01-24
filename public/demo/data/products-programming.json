@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"name": "Coursera (Introdution to HTML5)",
+			"image": "6.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "CS50 (Introduction to Python)",
+			"image": "4.jpg",
+			"fade": "fade-down"
+		},
+		{
+			"name": "freeCodeCamp (JavaScript & Data Structure)",
+			"image": "8.png",
+			"fade": "fade-left"
+		},
+		{
+			"name": "Ratatype Silver🥈",
+			"image": "2.jpg"
+		},
+		{
+			"name": "Great Learning (Introduction to JavaScript)",
+			"image": "5.png"
+		},
+		{
+			"name": "Udemy (CSS, JavaScript And PHP)",
+			"image": "5.jpg"
+		}
+	]
+}

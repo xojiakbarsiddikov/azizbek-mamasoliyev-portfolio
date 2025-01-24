@@ -1,0 +1,26 @@
+{
+	"data": [
+		{
+			"name": "2nd Grade (For Excellent Behavior & Studies)",
+			"image": "4.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "5th Grade (For The Msot Excellent Student)",
+			"image": "5.jpg",
+			"img_size": "img_size",
+			"fade": "fade-down"
+		},
+		{
+			"name": "6th Grade (For Excellent Behavior & Studies)",
+			"image": "11.jpg",
+			"img_size": "img_size",
+			"fade": "fade-left"
+		},
+		{
+			"name": "5th Grade (For Excellent Behavior & Studies)",
+			"image": "13.jpg",
+			"img_size": "img_size"
+		}
+	]
+}
