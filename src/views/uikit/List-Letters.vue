@@ -9,9 +9,9 @@
                 <h5>Recommendation<span class="blue-color text-left text-right">Letters:</span></h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-between align-items-center w-full img-wrapper">
-                            <Image src="/public/demo/images/certificates/recommendation-letter/1.png" class="with-image2" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/recommendation-letter/3.png" class="with-image2" preview data-aos="fade-up"/>
-                            <Image src="/public/demo/images/certificates/recommendation-letter/2.png" class="with-image2" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/recommendation-letter/1.png" class="with-image2" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/recommendation-letter/3.png" class="with-image2" preview data-aos="fade-up"/>
+                            <Image src="/demo/images/certificates/recommendation-letter/2.png" class="with-image2" preview data-aos="fade-down"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-between text-warpper">
