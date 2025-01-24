@@ -19,7 +19,7 @@
                 <div class="card px-4 py-8 md:px-6 lg:px-8">
         <div class="flex flex-wrap mb-4" style="align-items: center;">
             <div class="w-full lg:w-6 pl-0 lg:pr-4" data-aos="fade-right">
-                <img src="/public/demo/images/my-avatar.jpg" alt="Image" class="w-full border-round" />
+                <img src="/demo/images/my-avatar.jpg" alt="Image" class="w-full border-round" />
             </div>
             <div class="w-full lg:w-6 pr-0 lg:pl-4 mt-3 lg:mt-0" data-aos="fade-down">
                 <div class="font-bold text-4xl mb-4 text-900 text-media">Perosnal Statement<span class="blue-color2">(ESSAY)</span></div>
