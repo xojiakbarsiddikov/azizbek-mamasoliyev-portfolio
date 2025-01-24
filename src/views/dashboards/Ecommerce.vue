@@ -198,7 +198,7 @@ watch(
             <router-link to="/ielts-certificate">
                 <div class="card h-full">
                 <div class="flex justify-content-between align-items-center" style="width: 100%; height: 100%;">
-                    <img src="/public/demo/images/ielts-logo.png" alt="ielts-logo" class="ielts-logo" style="width: 56%; height: 100%;">
+                    <img src="/demo/images/ielts-logo.png" alt="ielts-logo" class="ielts-logo" style="width: 56%; height: 100%;">
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #db2727;">IELTS</span> CERTIFICATE</span>
                 </div>
             </div>
@@ -209,11 +209,11 @@ watch(
                 <div class="card h-full">
                 <div class="flex justify-content-between mt-3">
                     <div class="w-6">
-                        <img src="/public/demo/images/Uzbekistan-gerb.png" class="media-width logo-cefr" alt="cefr-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/Uzbekistan-gerb.png" class="media-width logo-cefr" alt="cefr-logo" style="width: 100%; height: 100%;">
                     </div>
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #6366f1;">CEFR</span> CERTIFICATES <span style="color: #6366f1;">(MULTILEVEL)</span></span>
                     <div class="w-6">
-                        <img src="/public/demo/images/my-gov-logo.png" alt="cefr-logo" class="logo-cefr" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/my-gov-logo.png" alt="cefr-logo" class="logo-cefr" style="width: 100%; height: 100%;">
                     </div>
                 </div>
             </div>  
@@ -224,11 +224,11 @@ watch(
                 <div class="card h-full">
                 <div class="flex justify-content-between mt-3">
                     <div class="w-6">
-                        <img src="/public/demo/images/unifight-logo.png" alt="unifight-logo" class="unifight-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/unifight-logo.png" alt="unifight-logo" class="unifight-logo" style="width: 100%; height: 100%;">
                     </div>
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #160f7e;">SPORT</span> CERTIFICATES</span>
                     <div class="w-6">
-                        <img src="/public/demo/images/unifight-logo2.png" alt="unifight-logo" class="unifight-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/unifight-logo2.png" alt="unifight-logo" class="unifight-logo" style="width: 100%; height: 100%;">
                     </div>
                 </div>
             </div>  
@@ -239,11 +239,11 @@ watch(
                 <div class="h-full card2">
                 <div class="flex justify-content-between mt-3">
                     <div class="w-6">
-                        <img src="/public/demo/images/school-logo.png" alt="school-logo" class="school-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/school-logo.png" alt="school-logo" class="school-logo" style="width: 100%; height: 100%;">
                     </div>
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #ffb52c;">SCHOOL</span> CERTIFICATES</span>
                     <div class="w-6">
-                        <img src="/public/demo/images/school-logo2.png" alt="school-logo" class="school-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/school-logo2.png" alt="school-logo" class="school-logo" style="width: 100%; height: 100%;">
                     </div>
                 </div>
             </div>  
@@ -254,7 +254,7 @@ watch(
                 <div class="card h-full card-media">
                 <div class="flex justify-content-between align-items-center" style="width: 100%; height: 100%;">
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #18980b;">PROGRAMMING</span> CERTIFICATES</span>
-                    <img src="/public/demo/images/programming2.png" class="media-height" alt="programming-logo">
+                    <img src="/demo/images/programming2.png" class="media-height" alt="programming-logo">
                 </div>
             </div>
             </router-link>
@@ -264,11 +264,11 @@ watch(
                 <div class="card h-full card-media">
                 <div class="flex justify-content-between mt-3">
                     <div class="w-6">
-                        <img src="/public/demo/images/certified-logo2.png" alt="other-certificate-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/certified-logo2.png" alt="other-certificate-logo" style="width: 100%; height: 100%;">
                     </div>
                     <span class="text-2xl font-bold text-900 center text-h2"><span style="color: #ffb52c;">OTHER EXTRA</span> CERTIFICATES</span>
                     <div class="w-6">
-                        <img src="/public/demo/images/certified-logo.png" alt="other-certificate-logo" style="width: 100%; height: 100%;">
+                        <img src="/demo/images/certified-logo.png" alt="other-certificate-logo" style="width: 100%; height: 100%;">
                     </div>
                 </div>
             </div>  
