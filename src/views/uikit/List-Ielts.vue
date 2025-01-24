@@ -9,8 +9,8 @@
                 <h5><span class="blue-color text-left">IELTS</span>CERTIFICATES</h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image">
-                            <Image src="/public/demo/images/certificates/ielts/Azizbek's_ielts.jpg" class="with-image" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/ielts/break-down.jpg" class="with-image second-image" preview data-aos="fade-up"/>
+                            <Image src="/demo/images/certificates/ielts/Azizbek's_ielts.jpg" class="with-image" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/ielts/break-down.jpg" class="with-image second-image" preview data-aos="fade-up"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-around text-warpper">
