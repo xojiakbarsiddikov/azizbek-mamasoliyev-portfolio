@@ -9,16 +9,13 @@
                 <h5>Resume:<span class="blue-color text-left"></span></h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image resume-width-images">
-                            <Image src="/public/demo/images/certificates/resume/1.png" class="with-image" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/resume/2.png" class="with-image" preview data-aos="fade-up"/>
-                            <!-- <Image src="/public/demo/images/certificates/ielts/break-down.jpg" class="with-image second-image" preview data-aos="fade-up"/> -->
+                            <Image src="/demo/images/certificates/resume/1.png" class="with-image" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/resume/2.png" class="with-image" preview data-aos="fade-up"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-around text-warpper resume-text-wrapper">
                         <h5 class="text">1ST<span class="blue-color" style="margin-left: 3px;">PAGE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">1st</span> ATTEMPT (TOTAL SCORE:<span class="blue-color text-right">7.5</span>)</h5> -->
                         <h5 class="text">2ND<span class="blue-color" style="margin-left: 3px;">PAGE</span></h5>
-                        <!-- <h5 class="text"><span class="blue-color">SCORE-DOWN</span>(<span class="blue-color text-right">Section-by-Section</span>)</h5> -->
                     </div>
             </div>
         </div>
