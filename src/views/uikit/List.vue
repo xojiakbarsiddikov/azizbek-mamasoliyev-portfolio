@@ -9,8 +9,8 @@
                 <h5><span class="blue-color text-left">SAT</span>CERTIFICATES</h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-between align-items-center w-full img-wrapper">
-                            <Image src="/public/demo/images/certificates/sat/2-attempt.png" class="with-image" preview data-aos="fade-down"/>
-                            <Image src="/public/demo/images/certificates/sat/1-attempt.png" class="with-image" preview data-aos="fade-up"/>
+                            <Image src="/demo/images/certificates/sat/2-attempt.png" class="with-image" preview data-aos="fade-down"/>
+                            <Image src="/demo/images/certificates/sat/1-attempt.png" class="with-image" preview data-aos="fade-up"/>
                         </div>
                     </div>
                     <div class="flex justify-content-space-between text-warpper">
